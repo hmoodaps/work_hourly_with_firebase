@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136652407770",
+    "project_id": "my-hourly-work",
+    "storage_bucket": "my-hourly-work.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136652407770:android:0dc0fed96ec0052c6fb6e3",
+        "android_client_info": {
+          "package_name": "com.example.work_hourly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMlnpPsWuAVINN3fvOGQZDjnq463hYAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
